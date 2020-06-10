@@ -1,7 +1,4 @@
  An improved version of the vi editor which is called the VIM has also been made available now. Here, VIM stands for Vi IMproved.
-updated : 201
- An improved version of the vi editor which is called the VIM has also been made available now. Here, VIM stands for Vi IMproved.
-updated : 201
-
+updated
 101fhhhh
 101fhhhh
